@@ -29,4 +29,4 @@ def chat(inp, role='user'):
 
 
 if __name__ == '__main__':
-    print(chat('can you tell me the circumphrence of the sun thank you'))
+    print(chat('can you tell me the circumference of the sun thank you'))
